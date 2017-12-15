@@ -28,6 +28,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.goodow.android.performance.ItemListActivity"/>
         </activity>
+        <activity
+            android:name=".cases.AdvancedListActivity"
+            android:label="@string/title_activity_advanced_list"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
